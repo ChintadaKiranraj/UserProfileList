@@ -1,0 +1,9 @@
+.user-list {
+  font-family: "roboto";
+  text-align: center;
+}
+.Users-list-container {
+  border-style: solid;
+  border-color: rgb(162, 171, 189);
+  padding: 15px;
+}

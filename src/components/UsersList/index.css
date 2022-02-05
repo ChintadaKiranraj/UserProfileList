@@ -1,0 +1,28 @@
+.Users-list-items {
+  padding-left: 0px;
+}
+
+.button {
+  padding: 8px 12px;
+  margin-bottom: 30px;
+  color: black;
+  border-style: solid;
+  border-radius: 4px;
+  font-weight: 400;
+  font-family: "Roboto";
+  font-size: 16px;
+
+  margin-right: 10px;
+}
+.navigate-button {
+  background-color: rgb(63, 161, 185);
+  color: white;
+  font-weight: 900;
+  font-weight: bolder;
+}
+.buttons-container {
+  text-align: center;
+}
+.activeButton {
+  background-color: blue;
+}
