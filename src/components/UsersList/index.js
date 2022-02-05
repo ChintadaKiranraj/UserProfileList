@@ -1,7 +1,7 @@
 import { Component } from "react";
 import UserItem from "../UserItem";
 import "./index.css";
-import TotalPagesButton from "../TotalPagesButton";
+// import TotalPagesButton from "../TotalPagesButton";
 
 class UsersList extends Component {
   state = {
